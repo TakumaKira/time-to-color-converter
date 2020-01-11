@@ -26,5 +26,5 @@ const { h, s, l } = convert(new Date());
 You can use these values like below.
 
 ```js
-document.getElementsByTagName('body')[0].style.backgroundColor = `hsl(${h}, ${s}%, ${l}%)`
+document.getElementsByTagName('body')[0].style.backgroundColor = `hsl(${h}, ${s}%, ${l}%)`;
 ```
