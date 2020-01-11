@@ -1,0 +1,22 @@
+{
+  "name": "time-to-color-converter",
+  "version": "1.0.0",
+  "description": "Convert Date object to HLS values.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "color",
+    "time",
+    "date",
+    "convert"
+  ],
+  "author": "Takuma Kira",
+  "license": "ISC",
+  "private": false
+}
