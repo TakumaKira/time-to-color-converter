@@ -20,7 +20,7 @@ const convert = require('time-to-color-converter');
 then
 
 ```js
-const { h, s, l } = convert(new Date());
+const { h, s, l } = convert(new Date(), false); // Set true to the second parameter if you use this for the southern hemisphere.
 ```
 
 You can use these values like below.
